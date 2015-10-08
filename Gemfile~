@@ -36,7 +36,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 group :development, :test do
   # Call 'debugger' anywhere in the code to stop execution and get a
   # debugger console
-  gem 'byebug'
+  #gem 'byebug'
 
   # Access an IRB console on exceptions page and /console in development
   gem 'web-console', '~> 2.0.0.beta2'
